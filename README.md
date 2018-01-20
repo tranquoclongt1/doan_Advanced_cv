@@ -13,7 +13,8 @@ Include: BoW combine histogram, DNN, Naive Bayes
 - Be able to modify the number of dimentions of description vectors by edit in histogram_feature_extraction.py
 - Full folderstruct:<br />
 ![capture](https://user-images.githubusercontent.com/16191939/35181224-513c3ac4-fdf0-11e7-8b1c-7e1e0b7bb346.PNG) <br />
-<i>Folder backup and dataset just for me, it's not necessary</i><br />
+<i>Folder <b>backup</b> and <b>dataset</b> just for me, it's not necessary</i><br />
+<i>Other weird filename will be generated on running source</i><br />
 #### Dataset:
 - Caltech-4:  <a href="https://www.dropbox.com/sh/f2v3omkeozzoooe/AAAsmpZFEg6Za18bQyE_rDuJa?dl=0">Donwload Here</a><br />
 - Extracted BoW_histogram_feature_descriptions: <a href="https://www.dropbox.com/sh/67xvwp18te69wlf/AACF8kzu2aG2kX9C3RcEiyTfa?dl=0">Here</a><br />
