@@ -12,7 +12,7 @@ Include: BoW combine histogram, DNN, Naive Bayes
 - Be able to modify the number of clusters by edit in BoWCodeWOrdBuileber.py
 - Be able to modify the number of dimentions of description vectors by edit in histogram_feature_extraction.py
 - Full folderstruct:<br />
-![capture](https://user-images.githubusercontent.com/16191939/35181224-513c3ac4-fdf0-11e7-8b1c-7e1e0b7bb346.PNG)
+![capture](https://user-images.githubusercontent.com/16191939/35181224-513c3ac4-fdf0-11e7-8b1c-7e1e0b7bb346.PNG) <br />
 <i>Folder backup just for me, it's not necessary</i><br />
 #### Dataset:
 - Caltech-4:  <a href="https://www.dropbox.com/sh/f2v3omkeozzoooe/AAAsmpZFEg6Za18bQyE_rDuJa?dl=0">Donwload Here</a><br />
